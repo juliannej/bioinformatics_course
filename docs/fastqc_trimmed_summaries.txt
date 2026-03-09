@@ -1,0 +1,44 @@
+PASS	Basic Statistics	WES01_chr22m_trimmed_R_1P
+PASS	Per base sequence quality	WES01_chr22m_trimmed_R_1P
+PASS	Per tile sequence quality	WES01_chr22m_trimmed_R_1P
+PASS	Per sequence quality scores	WES01_chr22m_trimmed_R_1P
+FAIL	Per base sequence content	WES01_chr22m_trimmed_R_1P
+FAIL	Per sequence GC content	WES01_chr22m_trimmed_R_1P
+PASS	Per base N content	WES01_chr22m_trimmed_R_1P
+WARN	Sequence Length Distribution	WES01_chr22m_trimmed_R_1P
+PASS	Sequence Duplication Levels	WES01_chr22m_trimmed_R_1P
+PASS	Overrepresented sequences	WES01_chr22m_trimmed_R_1P
+PASS	Adapter Content	WES01_chr22m_trimmed_R_1P
+PASS	Basic Statistics	WES01_chr22m_trimmed_R_1U
+PASS	Per base sequence quality	WES01_chr22m_trimmed_R_1U
+PASS	Per tile sequence quality	WES01_chr22m_trimmed_R_1U
+PASS	Per sequence quality scores	WES01_chr22m_trimmed_R_1U
+FAIL	Per base sequence content	WES01_chr22m_trimmed_R_1U
+FAIL	Per sequence GC content	WES01_chr22m_trimmed_R_1U
+PASS	Per base N content	WES01_chr22m_trimmed_R_1U
+WARN	Sequence Length Distribution	WES01_chr22m_trimmed_R_1U
+PASS	Sequence Duplication Levels	WES01_chr22m_trimmed_R_1U
+PASS	Overrepresented sequences	WES01_chr22m_trimmed_R_1U
+PASS	Adapter Content	WES01_chr22m_trimmed_R_1U
+PASS	Basic Statistics	WES01_chr22m_trimmed_R_2P
+PASS	Per base sequence quality	WES01_chr22m_trimmed_R_2P
+PASS	Per tile sequence quality	WES01_chr22m_trimmed_R_2P
+PASS	Per sequence quality scores	WES01_chr22m_trimmed_R_2P
+FAIL	Per base sequence content	WES01_chr22m_trimmed_R_2P
+FAIL	Per sequence GC content	WES01_chr22m_trimmed_R_2P
+PASS	Per base N content	WES01_chr22m_trimmed_R_2P
+WARN	Sequence Length Distribution	WES01_chr22m_trimmed_R_2P
+PASS	Sequence Duplication Levels	WES01_chr22m_trimmed_R_2P
+PASS	Overrepresented sequences	WES01_chr22m_trimmed_R_2P
+PASS	Adapter Content	WES01_chr22m_trimmed_R_2P
+PASS	Basic Statistics	WES01_chr22m_trimmed_R_2U
+PASS	Per base sequence quality	WES01_chr22m_trimmed_R_2U
+PASS	Per tile sequence quality	WES01_chr22m_trimmed_R_2U
+PASS	Per sequence quality scores	WES01_chr22m_trimmed_R_2U
+FAIL	Per base sequence content	WES01_chr22m_trimmed_R_2U
+FAIL	Per sequence GC content	WES01_chr22m_trimmed_R_2U
+PASS	Per base N content	WES01_chr22m_trimmed_R_2U
+WARN	Sequence Length Distribution	WES01_chr22m_trimmed_R_2U
+PASS	Sequence Duplication Levels	WES01_chr22m_trimmed_R_2U
+WARN	Overrepresented sequences	WES01_chr22m_trimmed_R_2U
+PASS	Adapter Content	WES01_chr22m_trimmed_R_2U

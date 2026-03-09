@@ -1,0 +1,22 @@
+PASS	Basic Statistics	WES01_chr22m_R1.fastq.gz
+PASS	Per base sequence quality	WES01_chr22m_R1.fastq.gz
+PASS	Per tile sequence quality	WES01_chr22m_R1.fastq.gz
+PASS	Per sequence quality scores	WES01_chr22m_R1.fastq.gz
+FAIL	Per base sequence content	WES01_chr22m_R1.fastq.gz
+FAIL	Per sequence GC content	WES01_chr22m_R1.fastq.gz
+PASS	Per base N content	WES01_chr22m_R1.fastq.gz
+PASS	Sequence Length Distribution	WES01_chr22m_R1.fastq.gz
+PASS	Sequence Duplication Levels	WES01_chr22m_R1.fastq.gz
+PASS	Overrepresented sequences	WES01_chr22m_R1.fastq.gz
+WARN	Adapter Content	WES01_chr22m_R1.fastq.gz
+PASS	Basic Statistics	WES01_chr22m_R2.fastq.gz
+PASS	Per base sequence quality	WES01_chr22m_R2.fastq.gz
+WARN	Per tile sequence quality	WES01_chr22m_R2.fastq.gz
+PASS	Per sequence quality scores	WES01_chr22m_R2.fastq.gz
+FAIL	Per base sequence content	WES01_chr22m_R2.fastq.gz
+FAIL	Per sequence GC content	WES01_chr22m_R2.fastq.gz
+PASS	Per base N content	WES01_chr22m_R2.fastq.gz
+PASS	Sequence Length Distribution	WES01_chr22m_R2.fastq.gz
+PASS	Sequence Duplication Levels	WES01_chr22m_R2.fastq.gz
+PASS	Overrepresented sequences	WES01_chr22m_R2.fastq.gz
+WARN	Adapter Content	WES01_chr22m_R2.fastq.gz
